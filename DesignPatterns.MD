@@ -130,3 +130,9 @@ Define the skeleton of an algorithm in operation, deferring some steps to subcla
 
 
 ![img.png](images/how_to_select.png)
+
+
+
+# Resources
+
+- https://newsletter.techworld-with-milan.com/p/how-to-select-a-design-pattern?ref=dailydev
